@@ -1,0 +1,15 @@
+# Secrets - jangan commit
+config.json
+.env
+cookies.txt
+.cache
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+
+# Deploy archives (bisa berisi token/cookies)
+*.zip
